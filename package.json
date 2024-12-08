@@ -26,7 +26,7 @@
     "i18next-browser-languagedetector": "^7.0.1",
     "i18next-http-backend": "^2.1.1",
     "i18next-xhr-backend": "^3.2.2",
-    "moment": "2.29.4",
+    "moment": "2.30.1",
     "prop-types": "^15.8.1",
     "pusher-js": "^8.0.0",
     "react": "18.2.0",
